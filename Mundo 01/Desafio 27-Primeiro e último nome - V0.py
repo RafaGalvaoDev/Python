@@ -11,4 +11,3 @@ pn = divi[0]
 un = divi[len(divi)-1]
 print('{}O primeiro{} nome é {}{}{}{}'.format(cor2, p, cor3, pn, cor0, cor0))
 print('{}O último{} nome é {}{}{}{}'.format(cor1, u, cor3, un, cor0, cor0))
-
