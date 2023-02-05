@@ -13,4 +13,3 @@ alu4 = str(input('Digite o nome do {}quarto aluno{}:{} '.format(cor4, stu, cor0)
 lista = [al1, al2, al3, alu4]
 esco = random.choice(lista)
 print('O aluno que vai {}apagar{} o quadro é: {}'.format(cor1, cor0, esco))
-
