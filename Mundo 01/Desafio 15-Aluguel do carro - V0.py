@@ -14,3 +14,4 @@ soma = vkm + vd
 print('O valor a pagar{} por {} dias é de {}R$'.format(dr, dia, vd))
 print('O valor a pagar{} por {} km é de {}R$'.format(dr, km, vkm))
 print('{}Um total de {}R${}'.format(cor2, soma, cor0))
+
