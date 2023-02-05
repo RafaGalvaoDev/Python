@@ -20,4 +20,3 @@ print('O {}primeiro aluno a {}apresentar será: {}{}'.format(p, cor1, lista[0], 
 print('O {}segundo aluno a {}apresentar será: {}{}'.format(s, cor2, lista[1], cor0))
 print('O {}terceiro aluno a {}apresentar será: {}{}'.format(t, cor3, lista[2], cor0))
 print('O {}quarto aluno a {}apresentar será: {}{}'.format(q, cor4, lista[3], cor0))
-
