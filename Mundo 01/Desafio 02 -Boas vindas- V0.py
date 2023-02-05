@@ -8,4 +8,3 @@ arma = emoji.emojize(':bow_and_arrow:')
 invaders = emoji.emojize(':alien_monster:')
 print('Bem vindo {}{}{}{}{} espero que esteja bem!!'.format(espadas, verde, nome, semCor, espadas))
 print('{}{}{} a terra esta {}sendo atacada{} por monstros{}{} vindos do espaço profundo pegue sua arma{}{} e nos ajude!!'.format(verde, nome, semCor, vermelho, semCor, invaders, invaders, arma, arma))
-
