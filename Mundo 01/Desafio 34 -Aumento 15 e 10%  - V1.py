@@ -9,4 +9,3 @@ if salario > 1250:
 else:
     print('O novo salário é de {:.2f}'.format(novoSal15))
     print('Um aumento de {:.2f}'.format(au15))
-    
