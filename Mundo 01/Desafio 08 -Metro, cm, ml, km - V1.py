@@ -6,5 +6,3 @@ print('O valor em metros foi {}'.format(me))
 print('{}Metros equivale a {} centimetros'.format(me, cm))
 print('{}Metros equivale a {} Milimetros'.format(me, mil))
 print('{}Metros equivale a {} quilometros'.format(me, km))
-
-
