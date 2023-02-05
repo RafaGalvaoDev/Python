@@ -7,3 +7,4 @@ if passagem <= 200:
 else:
     print('Sua viagem é de {}Km'.format(passagem))
     print('O valor a ser pago é de {:.2f}R$'.format(valor2))
+
