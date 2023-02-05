@@ -9,3 +9,4 @@ print('O nome com todas as letras minusculas é: {}'.format(mi))
 print('O nome com todas as letras maiusculas é: {}'.format(ma))
 print('O primeiro nome tem: {} letras'.format(div.__len__()))
 print('O nome tem {} letras'.format(cont))
+
