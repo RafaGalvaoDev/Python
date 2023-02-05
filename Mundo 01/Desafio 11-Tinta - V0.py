@@ -10,3 +10,4 @@ cor1 = '\033[4;30;42m'
 cor2 = '\033[0;30;44m'
 print('A medida {}total da parede{} é {:.2f}{} metros'.format(cor1, parede, medida, cor0))
 print('Para pintar{} a {}parede você usara {:.2f} litros{} de tinta.'.format(pincel, cor2, tinta, cor0))
+
