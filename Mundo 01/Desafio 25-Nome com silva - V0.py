@@ -6,4 +6,3 @@ ns = 'silva' in nm
 cor0 = '\033[m'
 cor1 = '\033[4;30;44m'
 print('{}O nome digitado tem silva:{} {}{} '.format(cor1, cor0, ns, es))
-
