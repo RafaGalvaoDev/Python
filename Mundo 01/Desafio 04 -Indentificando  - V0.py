@@ -35,4 +35,3 @@ print('{} esta me {}minusculo:{}{} {}'.format(numero, preto, semCor, pal, elo))
 print('{} é {}printabel:{}{} {}'.format(numero, verd, semCor, tec, epr,))
 print('{} tem {}espaços:{}{} {}'.format(numero, azul, semCor, simb, eesp))
 print('{} é {}titlecased:{}{} {}'.format(numero, verd, semCor, sal, eti))
-
