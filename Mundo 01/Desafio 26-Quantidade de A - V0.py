@@ -15,3 +15,4 @@ qa = fm.count('a')
 print('A letra{} {}A aparece primeiro na possição {}{}'.format(sy, cor3, pa+1, cor0))
 print('A letra{} {}A aparece{} {} vezes '.format(le, cor2, cor0, qa))
 print('A letra{} A aparece por último na possição {} {}'.format(cor4, ua+1, cor0))
+
