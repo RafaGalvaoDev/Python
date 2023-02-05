@@ -5,3 +5,4 @@ if km > 80:
     print('Você foi multado o valor a ser pago é de {:.2f}R$'.format(mut))
 else:
     print('Continue digirindo, com segurança')
+
