@@ -9,4 +9,3 @@ cor2 = '\033[4;33;40m'
 sm = '\033[m'
 print('As notas foram {}{} e {}{} '.format(n1, nt, n2, nt))
 print('A {}sua media{} foi {}{}{}'.format(cor1, sm, cor2, me, sm))
-
