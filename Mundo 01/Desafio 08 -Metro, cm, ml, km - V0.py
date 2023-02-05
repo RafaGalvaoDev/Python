@@ -12,3 +12,4 @@ print('O valor {}digitado em metros{} foi {}'.format(cor1, cor0, me))
 print('{} Metros{} equivale  {} {}centimetros{}'.format(me, ca, cm, cor3, cor0))
 print('{} Metros{} {}equivale{} {} milimetros'.format(me, ca, cor2, cor0, mil))
 print('{}{} Metros{}{} equivale {} quilometros'.format(cor1, me, ca, cor0, km))
+
