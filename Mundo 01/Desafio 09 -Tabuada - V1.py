@@ -20,5 +20,3 @@ print('Sua tabuada vezes 7 é {:2}'.format(x7))
 print('Sua tabuada vezes 8 é {:2}'.format(x8))
 print('Sua tabuada vezes 9 é {:2}'.format(x9))
 print('Sua tabuada vezes 10 é {:2}'.format(x10))
-
-
