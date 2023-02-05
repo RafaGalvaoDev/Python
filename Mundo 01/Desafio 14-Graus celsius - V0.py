@@ -6,4 +6,3 @@ cg = emojize(':thermometer:')
 graus = float(input('Digite o valor da {}temperatura em graus:{}{} '.format(cor2, cor0, cg)))
 f = (graus * 1.8) + 32
 print('{}A temperatura{} de {} graus{} celsius é igual a {:.2f} graus fahrenheit'.format(cor1, cor0, graus, cg, f))
-
