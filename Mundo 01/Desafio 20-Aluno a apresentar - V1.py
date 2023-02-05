@@ -9,4 +9,3 @@ print('O primeiro aluno a apresentar será: {}'.format(lista[0]))
 print('O segundo aluno a apresentar será: {}'.format(lista[1]))
 print('O terceiro aluno a apresentar será: {}'.format(lista[2]))
 print('O quarto aluno a apresentar será: {}'.format(lista[3]))
-
