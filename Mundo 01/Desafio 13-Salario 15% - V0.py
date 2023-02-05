@@ -10,4 +10,3 @@ acre = (salario * 15) / 100
 novoSalario = salario + acre
 print('O valor de seu salário hoje é {}R$ com o acressimo de 15% {}passa a ser {}R${}{}'.format(salario, cor2,novoSalario, dc, cor0))
 print('{}Um acressimo de {}R${}{}'.format(cor1, acre, cd, cor0))
-
