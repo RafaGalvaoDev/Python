@@ -9,4 +9,3 @@ elif nu > 5:
     print('Eu disse entre 0 e 5!!')
 else:
     print('Você errou, tente outra vez')
-
