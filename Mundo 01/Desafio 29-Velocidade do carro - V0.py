@@ -13,3 +13,4 @@ if km > 80:
     print('{}Você foi {}multado por exesso de velocidade{}, o valor a ser pago é de {:.2f} R${}{}{}'.format(cor1, cor3, vc, mut, cor0, vd, vd))
 else:
     print('{}Continue digirindo, {}com segurança{}{}{}{}'.format(cor2, cor3, vs, vs,cor0, cor0))
+
