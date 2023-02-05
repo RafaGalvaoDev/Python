@@ -10,3 +10,4 @@ print('Você esta sendo {}invadido{}'.format(vermelho, vazio))
 print('{}{}{}{}{}'.format(invader, invader, invader, invader, mundo))
 print('{}{}{}{}{}'.format(invader, invader, invader, mundo, invader))
 print('{}{}{}{}{}{}{}'.format(vermelho, invader, invader, mundo, invader, invader, vazio))
+
