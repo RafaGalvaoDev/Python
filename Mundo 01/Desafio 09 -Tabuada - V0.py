@@ -32,4 +32,3 @@ print('{}O valor digitado foi {} e sua multiplicação vezes 7{} é {}{}'.format
 print('O valor digitado foi {} e sua multiplicaçã vezes 8{} é {}'.format(num, xx8, x8))
 print('{}O valor digitado foi {} e sua multiplicação vezes 9{} é {}{}'.format(cor1, num, xx9, x9, cor0))
 print('O valor digitado foi {} e sua multiplicação vezes 10{} é {}'.format(num, xx10, x10))
-
