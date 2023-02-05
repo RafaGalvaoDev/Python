@@ -7,3 +7,4 @@ print('O número tem {} unidades'.format(uni))
 print('O número tem {} dezenas'.format(dez))
 print('O número tem {} centenas'.format(cen))
 print('O número tem {} milhares'.format(mil))
+
