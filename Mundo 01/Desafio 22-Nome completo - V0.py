@@ -16,6 +16,3 @@ print('O nome com todas as {}letras minusculas{}{} é: {}'.format(cor1, cor0, mi
 print('O nome com todas as {}letras maiusculas{}{} é: {}'.format(cor2, cor0, main, ma))
 print('O primeiro nome tem{}: {} letras'.format(qin, div.__len__()))
 print('{}O nome tem {} letras{}{}'.format(cor1, cont, cor0, qin))
-
-
-
