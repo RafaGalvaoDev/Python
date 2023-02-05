@@ -9,4 +9,3 @@ if num % 2 == 0:
     print('{}O número digitado é par {}{}{}'.format(cor1, num, par, cor0))
 else:
     print('{}O número digitado é impa {}{}{}'.format(cor2, num, impa, cor0))
-
