@@ -12,3 +12,4 @@ print('{}O número tem{} {} unidades{}'.format(cor1, nu, uni, cor0))
 print('O número tem {} dezenas{}'.format(dez, nu))
 print('{}O número tem{} {} centenas{}'.format(cor1, nu, cen, cor0))
 print('O número tem {} milhares{}'.format(mil, nu))
+
