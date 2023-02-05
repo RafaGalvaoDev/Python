@@ -18,4 +18,3 @@ elif nu > 5:
     print('{}{}Eu disse {}entre 0 e 5{}!!{}{}'.format(inp, cor3, cor4, cor0, cor0, inp))
 else:
     print('{}Você {}errou{}, tente outra vez{}{}{}{}'.format(cor1, cor4, cor0, cor0, ero, ero, ero))
-
