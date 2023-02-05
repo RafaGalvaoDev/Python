@@ -15,3 +15,4 @@ if salario > 1250:
 else:
     print('{}O novo salário{} é de {:.2f}'.format(cor2, cor0, novoSal15))
     print('{}Um aumento{} de {:.2f}{}{}'.format(cor1, cor0, au15, din1, din1))
+
