@@ -6,3 +6,4 @@ elif numero2 > numero1:
     print('O segundo valor digitado é o maior!')
 else:
     print('Os números são iguais!')
+
