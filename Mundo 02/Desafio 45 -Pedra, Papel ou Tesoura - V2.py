@@ -20,3 +20,4 @@ elif ale == lista[0] and escolha == 3 or (ale == lista[1] and escolha == 1) or (
     print('Você perdeu, tente novamente')
 else:
     print('Escolha somente entre os números 1 e 3')
+
