@@ -8,4 +8,4 @@ while contador <= term:
     print(' - {} '.format(t3), end='')
     t1 = t2
     t2 = t3
-    contador = contador + 1
+    contador += 1
