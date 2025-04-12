@@ -1,0 +1,63 @@
+version: "3.8"
+
+services:
+
+  db:
+    image: mysql:5.7
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Senha123
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - rede
+
+  web1:
+    image: php:7.4-apache
+    container_name: web1
+    volumes:
+      - ./web:/var/www/html
+    depends_on:
+      - db
+    networks:
+      - rede
+
+  web2:
+    image: php:7.4-apache
+    container_name: web2
+    volumes:
+      - ./web:/var/www/html
+    depends_on:
+      - db
+    networks:
+      - rede
+
+  web3:
+    image: php:7.4-apache
+    container_name: web3
+    volumes:
+      - ./web:/var/www/html
+    depends_on:
+      - db
+    networks:
+      - rede
+
+  nginx:
+    build: ./nginx
+    container_name: nginx
+    ports:
+      - "4500:80"
+    depends_on:
+      - web1
+      - web2
+      - web3
+    networks:
+      - rede
+
+volumes:
+  db_data:
+
+networks:
+  rede:
